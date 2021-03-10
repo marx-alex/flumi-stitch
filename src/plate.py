@@ -311,7 +311,7 @@ class PlateData(object):
             print('Links: ', self.links)
 
     @staticmethod
-    def trans_optimize(trans, pos, thresh=3, verbose=False):
+    def trans_optimize(trans, pos, thresh=1.96, verbose=False):
         """Optimize a list of pairwise translations
 
         Args:

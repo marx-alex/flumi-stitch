@@ -24,7 +24,7 @@ feature-based ore Fourier-based method or to switch to the Fourier-based method 
 ### 2. Translation Optimization
 
 In this step the vertical and horizontal translations are searched for outliers or connection where no translations
-were found. A translation is defined as outlier if the z-score is above 3. Outliers become then replaced by the mean
+were found. A translation is defined as outlier if the z-score is above or under 1.96. Outliers become then replaced by the mean
 value. This part also calculates the standard deviation for translations in x and y direction which allows estimations
 about the mechanical stage repeatability.
 
