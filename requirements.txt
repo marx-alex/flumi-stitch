@@ -1,0 +1,14 @@
+matplotlib==3.3.4
+numpy==1.19.2
+opencv-contrib-python==4.5.1.48
+pandas==1.2.1
+PyWavelets==1.1.1
+scikit-image==0.18.1
+scipy==1.6.1
+torch==1.7.1
+tqdm==4.56.2
+pandas~=1.2.1
+numpy~=1.19.2
+pillow~=8.1.0
+pyyaml~=5.4.1
+lxml==4.6.2

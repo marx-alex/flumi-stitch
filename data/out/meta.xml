@@ -1,0 +1,108 @@
+<Plate img_dir="data\images" out_dir="data\out" meta_dir="data\out">
+  <Well name="A01">
+    <Field id="1" channel="DAPI">
+      <file_id>{'A - 01 fld 01 DAPI.png'}</file_id>
+      <well>{'A01'}</well>
+      <field_id>{1}</field_id>
+      <row>{1}</row>
+      <column>{1}</column>
+      <channel>{'DAPI'}</channel>
+      <file_path>{'data\\images\\A - 01 fld 01 DAPI.png'}</file_path>
+      <width>{600}</width>
+      <height>{600}</height>
+      <x_pos>{64.50067138671875}</x_pos>
+      <y_pos>{71.00054931640625}</y_pos>
+    </Field>
+    <Field id="1" channel="TexasRed">
+      <file_id>{'A - 01 fld 01 TexasRed.png'}</file_id>
+      <well>{'A01'}</well>
+      <field_id>{1}</field_id>
+      <row>{1}</row>
+      <column>{1}</column>
+      <channel>{'TexasRed'}</channel>
+      <file_path>{'data\\images\\A - 01 fld 01 TexasRed.png'}</file_path>
+      <width>{600}</width>
+      <height>{600}</height>
+      <x_pos>{64.50067138671875}</x_pos>
+      <y_pos>{71.00054931640625}</y_pos>
+    </Field>
+    <Field id="2" channel="DAPI">
+      <file_id>{'A - 01 fld 02 DAPI.png'}</file_id>
+      <well>{'A01'}</well>
+      <field_id>{2}</field_id>
+      <row>{1}</row>
+      <column>{2}</column>
+      <channel>{'DAPI'}</channel>
+      <file_path>{'data\\images\\A - 01 fld 02 DAPI.png'}</file_path>
+      <width>{600}</width>
+      <height>{600}</height>
+      <x_pos>{532.5006713867188}</x_pos>
+      <y_pos>{68.00054931640625}</y_pos>
+    </Field>
+    <Field id="2" channel="TexasRed">
+      <file_id>{'A - 01 fld 02 TexasRed.png'}</file_id>
+      <well>{'A01'}</well>
+      <field_id>{2}</field_id>
+      <row>{1}</row>
+      <column>{2}</column>
+      <channel>{'TexasRed'}</channel>
+      <file_path>{'data\\images\\A - 01 fld 02 TexasRed.png'}</file_path>
+      <width>{600}</width>
+      <height>{600}</height>
+      <x_pos>{532.5006713867188}</x_pos>
+      <y_pos>{68.00054931640625}</y_pos>
+    </Field>
+    <Field id="3" channel="DAPI">
+      <file_id>{'A - 01 fld 03 DAPI.png'}</file_id>
+      <well>{'A01'}</well>
+      <field_id>{3}</field_id>
+      <row>{2}</row>
+      <column>{1}</column>
+      <channel>{'DAPI'}</channel>
+      <file_path>{'data\\images\\A - 01 fld 03 DAPI.png'}</file_path>
+      <width>{600}</width>
+      <height>{600}</height>
+      <x_pos>{67.50067138671875}</x_pos>
+      <y_pos>{532.0005493164062}</y_pos>
+    </Field>
+    <Field id="3" channel="TexasRed">
+      <file_id>{'A - 01 fld 03 TexasRed.png'}</file_id>
+      <well>{'A01'}</well>
+      <field_id>{3}</field_id>
+      <row>{2}</row>
+      <column>{1}</column>
+      <channel>{'TexasRed'}</channel>
+      <file_path>{'data\\images\\A - 01 fld 03 TexasRed.png'}</file_path>
+      <width>{600}</width>
+      <height>{600}</height>
+      <x_pos>{67.50067138671875}</x_pos>
+      <y_pos>{532.0005493164062}</y_pos>
+    </Field>
+    <Field id="4" channel="DAPI">
+      <file_id>{'A - 01 fld 04 DAPI.png'}</file_id>
+      <well>{'A01'}</well>
+      <field_id>{4}</field_id>
+      <row>{2}</row>
+      <column>{2}</column>
+      <channel>{'DAPI'}</channel>
+      <file_path>{'data\\images\\A - 01 fld 04 DAPI.png'}</file_path>
+      <width>{600}</width>
+      <height>{600}</height>
+      <x_pos>{535.5006713867188}</x_pos>
+      <y_pos>{529.0005493164062}</y_pos>
+    </Field>
+    <Field id="4" channel="TexasRed">
+      <file_id>{'A - 01 fld 04 TexasRed.png'}</file_id>
+      <well>{'A01'}</well>
+      <field_id>{4}</field_id>
+      <row>{2}</row>
+      <column>{2}</column>
+      <channel>{'TexasRed'}</channel>
+      <file_path>{'data\\images\\A - 01 fld 04 TexasRed.png'}</file_path>
+      <width>{600}</width>
+      <height>{600}</height>
+      <x_pos>{535.5006713867188}</x_pos>
+      <y_pos>{529.0005493164062}</y_pos>
+    </Field>
+  </Well>
+</Plate>
